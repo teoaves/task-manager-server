@@ -1,0 +1,9 @@
+1. Run the SQL file to create the DB.
+2. Set up properly the application properties.
+3. Set up properly the email constants so that the registration and verification work as intented.
+4. Set up an email password generator so that the application can generate a password through your email.
+
+Github Links:
+1.https://github.com/teoaves/task-manager-client.git
+2.https://github.com/teoaves/task-manager-server.git
+github.com
